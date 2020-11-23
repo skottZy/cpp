@@ -1,5 +1,11 @@
+/*
+author: skottZy
+date: 2020/11/23
+sumarry: test1.cpp
+
+*/
 #include <iostream>
-#include <cmath>
+#include <cmath>s
 #include <ctime>
 
 using namespace std;
