@@ -5,7 +5,7 @@ sumarry: test1.cpp
 version: 2020/11/23 v1
 */
 #include <iostream>
-#include <cmath>s
+#include <cmath>
 #include <ctime>
 
 using namespace std;
